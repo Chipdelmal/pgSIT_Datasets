@@ -79,9 +79,6 @@ Factorial sweep of both effects.
 * _Factorial01.7z_: female eggs allowed at a .5 ratio, and they die on pupation (100:1)
 * _Factorial02.7z_: female eggs allowed at a .5 ratio, and they die on pupation (200:1)
 
-# Dataset Authors
-
-Héctor M. Sánchez C., Sean L. Wu, John M. Marshall
 
 # Associated Publications
 
