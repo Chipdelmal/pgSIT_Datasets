@@ -69,11 +69,9 @@ _Note: each scenario was repeated 20 times_
 Sweeping the lifespan reduction effects (mortality) on the genetically modified individuals.
 
 * _LifespanReduction01.7z_: female eggs allowed at a .5 ratio, and they die on pupation (100:1)
-
-![](./Plots/100to1/Lifespan.jpg)
-
 * _LifespanReduction02.7z_: female eggs allowed at a .5 ratio, and they die on pupation (200:1)
 
+![](./Plots/100to1/Lifespan.jpg)
 ![](./Plots/200to1/Lifespan.jpg)
 
 ### Mating Efficacy
@@ -81,11 +79,9 @@ Sweeping the lifespan reduction effects (mortality) on the genetically modified 
 Sweeping the mating efficacy on the genetically modified individuals.
 
 * _MatingEfficacy01.7z_: female eggs allowed at a .5 ratio, and they die on pupation (100:1)
-
-![](./Plots/100to1/Mating.jpg)
-
 * _MatingEfficacy02.7z_: female eggs allowed at a .5 ratio, and they die on pupation (200:1)
 
+![](./Plots/100to1/Mating.jpg)
 ![](./Plots/200to1/Mating.jpg)
 
 
@@ -94,11 +90,9 @@ Sweeping the mating efficacy on the genetically modified individuals.
 Factorial sweep of both effects.
 
 * _Factorial01.7z_: female eggs allowed at a .5 ratio, and they die on pupation (100:1)
-
-![](./Plots/100to1/FactorialSweep.jpg)
-
 * _Factorial02.7z_: female eggs allowed at a .5 ratio, and they die on pupation (200:1)
 
+![](./Plots/100to1/FactorialSweep.jpg)
 ![](./Plots/200to1/FactorialSweep.jpg)
 
 # Associated Publications
