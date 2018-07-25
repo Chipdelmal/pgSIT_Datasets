@@ -1,8 +1,10 @@
-# pgSIT_Datasets
+# Datasets for: Transforming Insect Population Control with Precision Guided Sterile Males.
 
 ## Interventions Contrast
 
 These datasets hold the results of the experiments to perform the comparisons between the different mosquito-control interventions.
+
+_Note: each scenario was repeated 2000 times_
 
 ### Datasets01.7z
 
@@ -27,7 +29,8 @@ These datasets hold the results of the experiments to perform the comparisons be
 		* Adult Lifespan Reduction: 18%
 		* Male Pupation Success Rate: 100%
 		* Female Pupation Success Rate: 0%
-		* Female Eggs: 50%
+
+![100:1 Plot](./Plots/100to1/Contrast.jpg)
 
 ### Datasets02.7z
 
@@ -52,33 +55,51 @@ These datasets hold the results of the experiments to perform the comparisons be
 		* Adult Lifespan Reduction: 18%
 		* Male Pupation Success Rate: 100%
 		* Female Pupation Success Rate: 0%
-		* Female Eggs: 50%
+
+![200:1 Plot](./Plots/200to1/Contrast.jpg)
 
 ## Parameters Sweeps
 
 Sensitivity analysis on important parameters for the pgSIT drive.
+
+_Note: each scenario was repeated 20 times_
 
 ### Lifespan Reduction
 
 Sweeping the lifespan reduction effects (mortality) on the genetically modified individuals.
 
 * _LifespanReduction01.7z_: female eggs allowed at a .5 ratio, and they die on pupation (100:1)
+
+![](./Plots/100to1/Lifespan.jpg)
+
 * _LifespanReduction02.7z_: female eggs allowed at a .5 ratio, and they die on pupation (200:1)
+
+![](./Plots/200to1/Lifespan.jpg)
 
 ### Mating Efficacy
 
 Sweeping the mating efficacy on the genetically modified individuals.
 
 * _MatingEfficacy01.7z_: female eggs allowed at a .5 ratio, and they die on pupation (100:1)
+
+![](./Plots/100to1/Mating.jpg)
+
 * _MatingEfficacy02.7z_: female eggs allowed at a .5 ratio, and they die on pupation (200:1)
+
+![](./Plots/200to1/Mating.jpg)
+
 
 ### LifespanAndMatingFactorial
 
 Factorial sweep of both effects.
 
 * _Factorial01.7z_: female eggs allowed at a .5 ratio, and they die on pupation (100:1)
+
+![](./Plots/100to1/FactorialSweep.jpg)
+
 * _Factorial02.7z_: female eggs allowed at a .5 ratio, and they die on pupation (200:1)
 
+![](./Plots/200to1/FactorialSweep.jpg)
 
 # Associated Publications
 
